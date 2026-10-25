@@ -1,0 +1,19 @@
+{
+    "author": "",
+    "description": "Phase 1: Solidity smart contract + Hardhat local chain for the Blockchain-Based Academic Certificate Verification System",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "hardhat": "^2.29.1"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "name": "certificate-verification-blockchain",
+    "private": true,
+    "scripts": {
+        "compile": "hardhat compile",
+        "deploy:localhost": "hardhat run scripts/deploy.js --network localhost",
+        "node": "hardhat node",
+        "test": "hardhat test"
+    },
+    "version": "1.0.0"
+}
