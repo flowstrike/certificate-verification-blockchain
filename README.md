@@ -1,5 +1,10 @@
 # Blockchain-Based Academic Certificate Verification System
 
+**To test it, start here: [TESTING_GUIDE.md](TESTING_GUIDE.md)** —
+logins, the demo run, and exactly which certificate to test.
+(The old IDs in `demo/DEMO_RESULT.md` are from another machine and
+will not work on yours — run the demo to get your own.)
+
 College project — phase-wise plan first, code second.
 
 **Scope, exactly as in the project notes:**
